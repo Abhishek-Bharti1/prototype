@@ -1,0 +1,125 @@
+ [
+    {
+        "shop":"Xpress Mart",
+        "area":"Shivaji Nagar",
+        "distance":"0.7Km",
+        "icon_link":"https://ik.imagekit.io/dunzo/dunzo-catalog-prod/tr:w-250,h-250,cm-pad_resize_store_thumbnail/stores/MVdibXFRb1pWRUtSTWJNYUxLSXdNUT09-1639111565473-store_image.jpg"
+    },
+    {
+        "shop":"Xpress Mart",
+        "area":"Bibvewadi",
+        "distance":"4.1Km",
+        "icon_link":"https://ik.imagekit.io/dunzo/dunzo-catalog-prod/tr:w-250,h-250,cm-pad_resize_store_thumbnail/stores/MVdibXFRb1pWRUtSTWJNYUxLSXdNUT09-1639111565473-store_image.jpg"
+    },
+    {
+        "shop":"Maharstra Fruits And Vegetables",
+        "area":"Bhandakar Road",
+        "distance":"3.7Km",
+        "icon_link":"https://ik.imagekit.io/dunzo/dunzo-catalog-prod/tr:w-250,h-250,cm-pad_resize_store_thumbnail/stores/M1prWUFRNElETmtxcnBObHdwM2RkZz09-1625565422040-store_image.jpg"
+    },
+    {
+        "shop":"Xpress Mart",
+        "area":"Bibvewadi",
+        "distance":"4.1Km",
+        "icon_link":"https://ik.imagekit.io/dunzo/dunzo-catalog-prod/tr:w-250,h-250,cm-pad_resize_store_thumbnail/stores/WjNENU43Tm1DN0JqRE84dVM5cFU0UT09-1639111565576-store_image.jpg"
+    },
+    {
+        "shop":"Sayar Vegetables",
+        "area":"Wakdewadi",
+        "distance":"4.7Km",
+        "icon_link":"https://ik.imagekit.io/dunzo/dunzo-catalog-prod/tr:w-250,h-250,cm-pad_resize_store_thumbnail/stores/TmREb0JEZTlHUVJ4NkdZUi9pT01oUT09-1611337706207-store_image.jpg"
+    },
+    {
+        "shop":"Food Junction",
+        "area":"Deccan Gymkhana",
+        "distance":"3.4Km",
+        "icon_link":"https://ik.imagekit.io/dunzo/dunzo-catalog-prod/tr:w-250,h-250,cm-pad_resize_store_thumbnail/stores/c27e4ecc-65cf-4d42-95bc-87993738ad7a-1552376551009-store_image.jpg"
+    },
+    {
+        "shop":"Laxmi Vegetables",
+        "area":"Wakdewadi",
+        "distance":"4.7Km",
+        "icon_link":"https://ik.imagekit.io/dunzo/dunzo-catalog-prod/tr:w-250,h-250,cm-pad_resize_store_thumbnail/stores/V2owTGxSN3BQN1NXaW1MVForRVBrdz09-1620284173329-store_image.jpg"
+    },
+    {
+        "shop":"Quality General Store",
+        "area":"Koregaon Park",
+        "distance":"5.3 Km",
+        "icon_link":"https://ik.imagekit.io/dunzo/dunzo-catalog-prod/tr:w-250,h-250,cm-pad_resize_store_thumbnail/stores/KzRzZTdRWWpTNUJnMEZOM0p5NnJSdz09-1571641736217-store_image.jpg"
+    },
+    {
+        "shop":"Rajlaxmi Supermart",
+        "area":"Karve Nagar",
+        "distance":"5.7 Km",
+        "icon_link":"https://ik.imagekit.io/dunzo/dunzo-catalog-prod/tr:w-250,h-250,cm-pad_resize_store_thumbnail/stores/a77c24ab-df65-4b2a-8f2f-c07002f429f1-1543756946005-store_image.jpg"
+    },
+    {
+        "shop":"Trivedi Fruits And Vegetables",
+        "area":"Pune",
+        "distance":"9.5 Km",
+        "icon_link":"https://ik.imagekit.io/dunzo/dunzo-catalog-prod/tr:w-250,h-250,cm-pad_resize_store_thumbnail/stores/Zm9naTFjK21QM3gvL3NObVlQc0VBQT09-1574328670247-store_image.jpg"
+    },
+    {
+        "shop":"Madhur Supershoppe",
+        "area":"Kothrud",
+        "distance":"7 Km",
+        "icon_link":"https://ik.imagekit.io/dunzo/dunzo-catalog-prod/tr:w-250,h-250,cm-pad_resize_store_thumbnail/stores/080aa117-e1cf-472d-aabb-6219c186a9b3-1565356822254-store_image.jpg"
+    },
+    {
+        "shop":"Sandesh Supershoppe In Wanowire",
+        "area":"Wanowire",
+        "distance":"8.3 Km",
+        "icon_link":"https://ik.imagekit.io/dunzo/dunzo-catalog-prod/tr:w-250,h-250,cm-pad_resize_store_thumbnail/stores/MWVjOEFZL00wd3I3aG0rMWVNMjByQT09-1576493652065-store_image.jpg"
+    },
+    {
+        "shop":"Ram Supermart",
+        "area":"Koregon Park",
+        "distance":"6.2 Km",
+        "icon_link":"https://ik.imagekit.io/dunzo/dunzo-catalog-prod/tr:w-250,h-250,cm-pad_resize_store_thumbnail/stores/MWVjOEFZL00wd3I3aG0rMWVNMjByQT09-1576493652065-store_image.jpg"
+    },
+    {
+        "shop":"Food Junction",
+        "area":"Pune Cantonment",
+        "distance":"6.7 Km",
+        "icon_link":"https://ik.imagekit.io/dunzo/dunzo-catalog-prod/tr:w-250,h-250,cm-pad_resize_store_thumbnail/stores/02b7409b-0fcf-43b4-9ecb-34f60eb44413-1552376550872-store_image.jpg"
+    },
+    {
+        "shop":"Mahesh Market",
+        "area":"Kalyani Nagar",
+        "distance":"7.9 Km",
+        "icon_link":"https://ik.imagekit.io/dunzo/dunzo-catalog-prod/tr:w-250,h-250,cm-pad_resize_store_thumbnail/stores/SHdNT04xSXo2YWllVnNzU2VLaTBiZz09-1577088327943-store_image.jpg"
+    },
+    {
+        "shop":"Xpress Mart",
+        "area":"Kothrud",
+        "distance":"7.6 Km",
+        "icon_link":"https://ik.imagekit.io/dunzo/dunzo-catalog-prod/tr:w-250,h-250,cm-pad_resize_store_thumbnail/stores/UEFMaTNVQWR0ZE5tSkYzVnZNTlNXdz09-1639111565376-store_image.jpg"
+    },
+    {
+        "shop":"Food Junction",
+        "area":"Kalyani Nagar",
+        "distance":"7.9 Km",
+        "icon_link":"https://ik.imagekit.io/dunzo/dunzo-catalog-prod/tr:w-250,h-250,cm-pad_resize_store_thumbnail/stores/02b7409b-0fcf-43b4-9ecb-34f60eb44413-1552376550872-store_image.jpg"
+    },
+    {
+        "shop":"Hari Om Supermarket In kondhwa",
+        "area":"Kondhwa",
+        "distance":"7.3 Km",
+        "icon_link":"https://ik.imagekit.io/dunzo/dunzo-catalog-prod/tr:w-250,h-250,cm-pad_resize_store_thumbnail/stores/4131c534-32f1-435d-b3dc-d39c4ccd1814-1543756111763-store_image.jpg"
+    },
+    {
+        "shop":"New Shri Ram Supermarket",
+        "area":"Aundh",
+        "distance":"7.4 Km",
+        "icon_link":"https://ik.imagekit.io/dunzo/dunzo-catalog-prod/tr:w-250,h-250,cm-pad_resize_store_thumbnail/stores/78e8a0d4-d445-4d78-9844-2d90b0353585-1599721988852-store_image.jpeg"
+    }
+]
+
+
+
+
+
+
+
+
+
